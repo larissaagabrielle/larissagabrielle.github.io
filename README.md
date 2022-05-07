@@ -1,2 +1,2 @@
 # larissagabrielle.github.io
-Currículo Jornada DEV
+Currículo Jornada DEV EBAC
